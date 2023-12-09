@@ -39,9 +39,9 @@ body {
     width: 300px;
     display: flex;
     justify-content: space-between;
-    left: 506px;
+    left: 527px;
     position: absolute;
-    bottom: -194px;
+    top: 517px;
 }
 
 footer {
